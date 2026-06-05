@@ -1,7 +1,23 @@
-echo "# Survey-code" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/SusanVision/Survey-code.git
-git push -u origin main
+# Survey App
+
+A simple survey application that allows users to create, manage, and complete surveys.
+
+## Features
+- User registration and login
+- Create surveys
+- Answer surveys
+- View survey results
+- Mobile-friendly design
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+
+## Installation
+1. Clone the repository
+2. Open the project folder
+3. Run the application
+
+## Author
+SusanVision
